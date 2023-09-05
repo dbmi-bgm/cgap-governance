@@ -1,0 +1,12 @@
+# MacOS folder meta-info
+.DS_Store
+
+# Microsoft Office (locks and backup files)
+~$*
+.~*#
+
+# Emacs backup files
+*~
+
+# PyCharm metadata
+.idea/
